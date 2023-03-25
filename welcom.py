@@ -1,1 +1,1 @@
-python print('new screen')
+print('new screen')
